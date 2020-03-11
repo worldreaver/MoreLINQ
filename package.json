@@ -1,14 +1,14 @@
 {
-  "name": "__bundleid__",
-  "displayName": "__displayname__",
-  "description": "",
-  "version": "0.0.1",
+  "name": "com.worldreaver.morelinq",
+  "displayName": "MoreLINQ",
+  "description": "Extensions to LINQ to Objects",
+  "version": "3.3.3",
   "unity": "2019.2",
   "author": "yenmoc <phongsoyenmoc.diep@gmail.com> (https://github.com/phongsoyenmoc)",
   "license": "MIT",
   "dependencies": {},
   "repository": {
     "type": "git",
-    "url": "https://github.com/worldreaver/__packagename__"
+    "url": "https://github.com/worldreaver/MoreLINQ"
   }
 }
